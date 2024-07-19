@@ -1,2 +1,3 @@
 # repo1
 This is my first git repository
+Divyanshu Garg
